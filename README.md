@@ -1,2 +1,2 @@
 # Front-End Automation
- Drifferent Exersices
+Exersices for Selenium WebBrowser
